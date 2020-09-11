@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(54, 12, 121);
+}
+
+ul {
+    list-style-type: square;
+}
+img.pasta {
+    border-radius: 50%;
+}
+
+hr {
+    width: 15%;
+    border-style: dotted none none;
+    border-width: 0.5rem;
+    border-color: rgb(4, 245, 64)
+}
